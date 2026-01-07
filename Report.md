@@ -55,7 +55,7 @@ The correlation matrix also surfaced another pair of columns with near-perfect c
 
 ---
 
-## Phase 2: Temporal Behavior and Visual Analysis
+## Phase 2: Visual Analysis & Hypothesis Formation
 
 With a working time index in place, I examined how the selected features evolved over time.
 
@@ -77,7 +77,7 @@ Crucially, the timing of increased outlier frequency aligned closely with the ob
 
 ---
 
-## Phase 3: Hypothesis Formation and Statistical Testing
+## Phase 3: Hypothesis Statistical Testing
 
 Based on the patterns observed so far, four hypotheses were formalized and tested.
 
